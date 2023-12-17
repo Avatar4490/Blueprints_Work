@@ -17,7 +17,9 @@ Saved
 Content/StarterContent/*
 
 #ThirdPerson
-Content/Characters/*
+Content/Characters/
+
+
 Content/FirstPerson/*
 Content/FirstPersonArms
 Content/FPWeapon/*
