@@ -13,6 +13,16 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
-#Starter Content
+#Starter Content Prevent Upload
 Content/StarterContent/*
+
+#ThirdPerson
+Content/Characters/*
+Content/FirstPerson/*
+Content/FirstPersonArms
+Content/FPWeapon/*
+Content/LevelPrototyping/*
+Content/ThirdPerson/*
+
+
 
