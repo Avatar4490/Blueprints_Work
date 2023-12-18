@@ -19,7 +19,7 @@ Content/StarterContent/*
 #ThirdPerson
 Content/Characters/*
 
-
+Content/__ExternalActors__/*
 Content/FirstPerson/*
 Content/FirstPersonArms
 Content/FPWeapon/*
